@@ -14,8 +14,8 @@ WINDOW_BIGGER = 1   # Resize multiplier for OpenCV Status Window
                     # Note if the window is larger than 1 then a reduced frame rate will occur
 
 GPIOZERO_ON = True  # False = use pipan servo driver, True = gpiozero pan/tilt servo driver
-GPIOZERO_PAN_PIN = 17
-GPIOZERO_TILT_PIN = 23
+GPIOZERO_PAN_PIN = 26
+GPIOZERO_TILT_PIN = 6
                    
 # Camera Settings
 # ---------------
